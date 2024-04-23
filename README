@@ -1,4 +1,4 @@
-1. 安装过程看RELEASE 这个文件
+1. 安装过程看 RELEASE.md 这个文件
 
 These are tools designed for working with modern linux system calls including, mincore, fallocate, fadvise, etc.
 
